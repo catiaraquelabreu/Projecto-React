@@ -1,0 +1,18 @@
+.div {
+  padding: 0px 32px;
+  padding-bottom: 32px;
+  display: flex;
+  width: 1440px;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  gap: 32px;
+
+  .map {
+    background-image: url("../../../../assets/mapa.png");
+    width: 490px;
+    height: 1200px;
+    display: -webkit-box;
+    margin-left: auto;
+  }
+}

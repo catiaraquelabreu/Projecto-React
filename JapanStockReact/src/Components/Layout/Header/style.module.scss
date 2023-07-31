@@ -1,0 +1,63 @@
+.container {
+  width: 100%;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 0;
+
+  .div {
+    padding: 16px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    margin: 0 auto;
+    gap: 24px;
+
+    .actions {
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      align-items: center;
+
+      div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 4px;
+        gap: 16px;
+
+        span {
+          text-decoration: none;
+
+          a {
+            text-decoration: none;
+            color: #64748b;
+            font-family: "Monteserrat", sans-serif;
+            font-size: 14px;
+            font-weight: 400;
+            white-space: nowrap;
+          }
+        }
+      }
+
+      .avatar {
+        display: flex;
+        gap: 4px;
+
+        img {
+          height: 40px;
+          width: 40px;
+          border-radius: 100%;
+          object-fit: cover;
+        }
+
+        .chevron {
+          max-width: 16px;
+          max-height: 16px;
+        }
+      }
+    }
+  }
+}

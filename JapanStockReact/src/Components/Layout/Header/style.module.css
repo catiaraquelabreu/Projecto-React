@@ -1,0 +1,10 @@
+.div {
+  padding: 16px 32px;
+}
+.div img {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=style.module.css.map */

@@ -1,0 +1,36 @@
+.div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 500px;
+  background-image: url(../../../../assets/Hero.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  .titles {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 680px;
+    gap: 16px;
+
+    h1 {
+      color: var(--shades-white, #fff);
+      font-size: 48px;
+      font-weight: 700;
+      line-height: 120%;
+      letter-spacing: -1.92px;
+    }
+
+    .text {
+      color: var(--shades-white, #fff);
+      font-family: "Monteserrat", sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px; /* 144.444% */
+      padding-bottom: 16px;
+    }
+  }
+}
