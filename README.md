@@ -1,6 +1,6 @@
 #JapanStock
 
-Para este projeto final decidi construir um website com um design que produzi num curso de UI/UX com a aplicação figma. Este é um website com stock de fotos e videos apenas do japão. Podemos selecionar fotografias e/ou videos, ver a localização dos sítios no mapa e comprar.
+Para este projeto final de React decidi construir um website com um design que produzi num curso de UI/UX com a aplicação figma. Este é um website com stock de fotos e videos apenas do japão. Podemos selecionar fotografias e/ou videos, ver a localização dos sítios no mapa e comprar.
 
 Apêndice:
 
