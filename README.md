@@ -6,6 +6,10 @@ Apêndice:
 
 Neste momento consegui produzir 3 páginas, apesar de certos componentes ainda estarem incompletos, penso ter construído o necessário de forma a ir de encontro com todos os pontos obrigatórios para avaliação. Criei componentes em toda as páginas, usei Custom Hooks , Fake Api's , fetch de API real, React Router entre outras.
 
+Acesso ás páginas dentro da pasta JapanStock-React:
+Dentro da pasta src encontramos várias páginas onde separei os componentes por API, UI, LAYOUT, FEATURES e PAGES. 
+Dentro destas pastas encontram-se mais separações de forma a uma melhor organização dos conteúdos do projeto.
+
 Como utilizar a aplicação com o que está construído:
 
 1º - Na página inicial temos uma searchbar onde podemos colocar qualquer cidade do japão (ex: Kyoto, Osaka, Tokyo...) e selecionar o filtro que queremos - Photos, Videos ou All- fazer enter.
